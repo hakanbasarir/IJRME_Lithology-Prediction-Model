@@ -3,8 +3,8 @@
 > **Paper**: Akyildiz, O., Basarir, H., & Ellefmo, S. L. (2024).  
 > *The development of a lithology prediction model using measurement while drilling data in a quartzite quarry*.  
 > **International Journal of Mining, Reclamation and Environment**, 39, 93–109.  
-> 🔗 [Open Access Paper](https://www.tandfonline.com/doi/full/10.1080/17480930.2024.2362577)  
-> 📄 DOI: [10.1080/17480930.2024.2362577](https://doi.org/10.1080/17480930.2024.2362577)
+> Link: [Open Access Paper](https://www.tandfonline.com/doi/full/10.1080/17480930.2024.2362577)  
+> DOI: [10.1080/17480930.2024.2362577](https://doi.org/10.1080/17480930.2024.2362577)
 
 ---
 
